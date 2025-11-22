@@ -1,1 +1,1 @@
-token = "8551964619:AAEtXruf8EfK1wPKKHSKQZS5ErjTK7-iJx8" # токен для бота
+token = "token" # токен для бота
